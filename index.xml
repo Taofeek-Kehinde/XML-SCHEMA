@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE class SYSTEM "schema.dtd">
+
+  <Family> 
+   <Name> Taofeek </Name>
+   <Age> 20 </Age>
+   <Gender> Male </Gender>
+   <Pet> Dog </Pet>
+
+    <Name> Usman </Name>
+    <Age> 10 </Age>
+    <Gender> Male </Gender>
+     <Pet> Cat </Pet>
+
+    <Name> Olawle </Name>
+    <Age> 15 </Age>
+    <Gender> Female </Gender>
+    <Pet> Hen </Pet>
+
+    <Name> Eniola </Name>
+    <Age> 25 </Age>
+    <Gender> Female </Gender>
+    <Pet> Rat </Pet>
+
+    <Name> Waliyah </Name>
+     <Age> 19 </Age>
+     <Gender> Female  </Gender>
+     <Pet> Cat </Pet>
+
+  </Family>

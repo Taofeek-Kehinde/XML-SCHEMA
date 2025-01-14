@@ -1,0 +1,2 @@
+<!ELEMENT class  (Family)>
+<!ELEMENT family (#PCDATA)>
